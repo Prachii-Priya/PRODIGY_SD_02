@@ -1,4 +1,3 @@
-# a-guessing-game
 import random
 
 def number_guessing_game():
@@ -23,5 +22,4 @@ def number_guessing_game():
         except ValueError:
             print("Please enter a valid integer.")
 
-# Run the game
 number_guessing_game()
